@@ -1,5 +1,5 @@
 
-# OFFICIAL AARCOMM Virtualized RCU CAN Interface
+# [OFFICIAL] AARCOMM Virtualized RCU CAN Interface
 
 This Flutter application provides a virtual interface for simulating digital remote control systems using CAN-based communication over Bluetooth Low Energy (BLE). Designed for embedded testing and hardware simulation, it emulates real-time CAN frame generation based on digital control states. It interfaces with devices such as the **Puisi MCBox** via BLE and provides full logging and filtering of CAN messages.
 
